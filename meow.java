@@ -8,3 +8,5 @@ public class Main {
   }
 
 }
+int num = 5;
+String s = "I have " + num + " cookies"
